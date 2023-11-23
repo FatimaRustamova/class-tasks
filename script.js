@@ -66,12 +66,12 @@
 
 //---4---
 
-// let nav = document.querySelector("nav");
+let nav = document.querySelector("nav");
 
-// console.log(nav.children[1].children[0]);
-// console.log(nav.lastElementChild);
-// console.log(nav.children[1].children[2].firstElementChild);
-// console.log(nav.children[1].children[1].firstElementChild.innerText);
+console.log(nav.children[1].children[0]);
+console.log(nav.lastElementChild);
+console.log(nav.children[1].children[2].firstElementChild);
+console.log(nav.children[1].children[1].firstElementChild.innerText);
 
 
 //---5---
